@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="PublishConfigData" serverName="Club-Charms-WebApp" uploadOnCheckin="ce904ac8-58b5-4454-b35a-e1a48eebe7a7">
+    <serverData>
+      <paths name="Club-Charms-WebApp">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/" local="$PROJECT_DIR$" web="/" />
+          </mappings>
+        </serverdata>
+      </paths>
+    </serverData>
+    <option name="myUploadOnCheckinName" value="Club-Charms-WebApp" />
+  </component>
+</project>
